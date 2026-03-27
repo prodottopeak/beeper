@@ -83,6 +83,6 @@
 
   If you have questions about this Privacy Policy, contact:
 
-  prodottopeak@example.com
+  prodottopeak@gmail.com
 
 
