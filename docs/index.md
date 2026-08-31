@@ -33,7 +33,7 @@ Set your rhythm, put your phone away, and let gentle cues keep you aware of time
 
 ---
 
-[Support](support) · [Privacy Policy](privacy)
+[Support](support) · [Privacy Policy](privacy-policy)
 
 Questions or feedback?
 
