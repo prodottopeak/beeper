@@ -4,7 +4,7 @@
 
   If you need help, have a question, or want to report a bug, contact:
 
-  prodottopeak@gmail.com
+  hello@prodottopeak.com
 
   ## Common Topics
 
