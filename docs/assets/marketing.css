@@ -40,3 +40,5 @@ body.phoneaware{--ink:#163e35;--muted:#526960;--surface:#f5faf7;--accent:#226f57
 .phoneaware .pause-actions{display:flex;flex-direction:column;align-items:stretch;gap:12px}.phoneaware .pause-actions button{font:800 15px/1.4 Hanken,sans-serif;border-radius:20px;min-height:52px}
 .phoneaware .pause-actions .demo-trigger,.phoneaware .pause-actions .demo-continue{background:#9bded1;color:#112c2c;border:1px solid transparent}.phoneaware .pause-actions .demo-cancel{background:transparent;color:#0b6878;border:1px solid #d4dfdf}
 @media(prefers-reduced-motion:reduce){.pause-tick{transition:none!important}}
+
+.download-geography{margin-top:12px;color:var(--muted);font-size:.86rem;line-height:1.5}
